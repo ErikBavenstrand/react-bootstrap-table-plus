@@ -31,8 +31,8 @@ Check the <a href='https://github.com/AllenFang/react-bootstrap-table/blob/maste
 ## To enable the Edit button:
 Add ```editRow={ true }``` to the ```<BootstrapTable>``` just as you would with the ```addRow={ true }```
 
-[Example](https://i.imgur.com/Btk74Xb.png)
-[Example](https://i.imgur.com/VoFjKP3.png)
+![Example](https://i.imgur.com/Btk74Xb.png)
+![Example](https://i.imgur.com/VoFjKP3.png)
 
 ## Notes
 
