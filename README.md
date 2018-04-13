@@ -29,7 +29,7 @@ See more about [react-bootstrap-table](http://allenfang.github.io/react-bootstra
 Check the <a href='https://github.com/AllenFang/react-bootstrap-table/blob/master/CHANGELOG.md'>CHANGELOG</a> for more detail release notes.
 
 ## To enable the Edit button:
-Add ```editRow={ true }``` to the ````<BootstrapTable>``` just as you would with the ```addRow={ true }```
+Add ```editRow={ true }``` to the ```<BootstrapTable>``` just as you would with the ```addRow={ true }```
 
 ![Example](https://imgur.com/Btk74Xb)
 ![Example Edit Row](https://imgur.com/a/E6Cli)
